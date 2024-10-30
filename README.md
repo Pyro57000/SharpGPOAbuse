@@ -41,6 +41,7 @@ Example:
 ```
 
 ### Adding a Local Admin 
+#### IMPORTATN NOTE: THIS WILL KICK ALL EXISTING ADMINS OUT OF THE ADMIN GROUP THEN ADD THE INDICATED USER TO IT.
 ```
 Options required to add a new local admin:
 --UserAccount
